@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+fieldset {
+        text-align:center;
+        padding: 50px;
+      	}
+#login label {
+        float: left;
+        font-size: 13px;
+        width: 110px;
+      	}
+#login ul li {
+        line-height: 30px;
+        list-style: none;
+        padding: 5px 10px;
+        margin-bottom: 2px;
+      	}
+#buttons {
+        width: 400;
+        margin:20px auto;
+        text-align: center;
+      	}
+#buttons input {
+        width:75px;
+        margin-top: 15px;
+        height:25px;
+        font-size:10px;
+      	}
+#buttons input:hover {
+        background-color:rgb(27, 134, 221);
+        color:#fff;
+        border-color:#fff;
+      	}
+#container {
+        width:600px;
+        margin:10px auto;
+      	}

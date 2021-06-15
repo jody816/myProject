@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+#container {
+        width:600px;
+        margin:10px auto;
+      }
+#container2{
+	width: 300px;
+	margin: 10px auto;
+}
+h2 {
+        padding: 10px;
+        background-color: #222;
+        color: #fff;
+      }
+#join label {
+        float: left;
+        font-size: 13px;
+        width: 110px;
+      }
+#join ul li {
+        line-height: 30px;
+        list-style: none;
+        padding: 5px 10px;
+        margin-bottom: 2px;
+      }
+fieldset {
+        text-align:center;
+        padding: 50px;
+      }
+#buttons {
+        width:400px;
+        margin:20px auto;
+        text-align: center;
+      }
+#buttons input {
+        width:75px;
+        height:25px;
+        font-size:10px;
+      }
+#buttons input:hover {
+        background-color:rgb(27, 134, 221);
+        color:#fff;
+        border-color:#fff;
+      }
